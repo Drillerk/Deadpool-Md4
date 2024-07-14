@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/drillerk" target="_blank">Eugine</a> . Star the repo with courage 🌟.
 </p>
 
 
@@ -16,7 +16,7 @@
 - [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
 - [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
 
-## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
+## 🔆🔆MADE BY Driller TECH
 
 # 💀```Must fork the repository✝️```
 
@@ -81,7 +81,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## 💀Developer
 
-  - [**Follow Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp Me**](https://wa.me/254796283064)
+  - [**Follow Instagram**](https://instagram.com/theeugyofficial._)
+- [**WhatsApp Me**](https://wa.me/254710980500)
 ## THANKS✝️💛
   
